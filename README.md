@@ -19,6 +19,13 @@ A modern Pomodoro Timer web application built with Next.js 15, TypeScript, and T
 - ⌨️ Keyboard shortcuts
 - 📱 Fully responsive design
 
+
+## Tech Stack
+
+- Next.js 15, TypeScript, Tailwind CSS
+- shadcn/ui component library
+- Lucide icons
+
 ## Keyboard Shortcuts
 
 - **Space** - Start/Pause timer
