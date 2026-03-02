@@ -1,5 +1,10 @@
 # Pomodoro Timer
 
+> Built with [Dark Factory v4](https://github.com/ibuzzardo/dark-factory-v4) — autonomous AI software development pipeline
+
+**[Live Demo](https://pomodoro-timer-sepia-one.vercel.app)**
+
+
 A modern Pomodoro Timer web application built with Next.js 15, TypeScript, and Tailwind CSS. Helps you manage work sessions using the Pomodoro Technique — 25-minute focused work intervals followed by 5-minute breaks.
 
 ## Features
